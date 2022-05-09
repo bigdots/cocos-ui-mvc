@@ -1,0 +1,21 @@
+#app {
+  color: var(--color-normal-contrast-weakest);
+  margin: auto;
+  width: 180px;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  margin-top: 20px;
+}
+
+.label {
+  width: 100px;
+}
+
+.btn {
+  margin-top: 20px;
+}
